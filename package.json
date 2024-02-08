@@ -1,0 +1,43 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-chai-matchers": "^2.0.2",
+    "@nomicfoundation/hardhat-ethers": "^3.0.4",
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.9",
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "@nomicfoundation/hardhat-verify": "^1.1.1",
+    "@typechain/ethers-v6": "^0.5.1",
+    "@typechain/hardhat": "^9.1.0",
+    "@types/mocha": "^10.0.3",
+    "chai": "^4.3.10",
+    "ethers": "^6.8.0",
+    "hardhat": "^2.18.3",
+    "hardhat-contract-sizer": "^2.10.0",
+    "hardhat-ethernal": "^3.2.5",
+    "hardhat-gas-reporter": "^1.0.9",
+    "solidity-coverage": "^0.8.5",
+    "ts-node": "^10.9.1",
+    "typechain": "^8.3.2",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@filebase/client": "^0.0.5",
+    "@openzeppelin/contracts": "^5.0.0",
+    "@orbitdb/core": "^1.0.0",
+    "@react-native-async-storage/async-storage": "^1.19.3",
+    "@react-native-community/netinfo": "^9.4.1",
+    "@walletconnect/modal-react-native": "1.0.0-rc.11",
+    "chart.js": "^4.4.0",
+    "dotenv": "^16.3.1",
+    "faker": "^6.6.6",
+    "gun": "^0.2020.1239",
+    "helia": "^2.0.3",
+    "ipfs-core": "^0.18.1",
+    "nft.storage": "^7.1.1",
+    "react-calendar": "^4.6.1",
+    "react-chartjs-2": "^5.2.0",
+    "react-native-get-random-values": "^1.9.0",
+    "react-native-modal": "^13.0.1",
+    "react-native-svg": "^13.14.0"
+  }
+}
